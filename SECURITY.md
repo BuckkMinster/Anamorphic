@@ -2,6 +2,11 @@
 
 This document outlines important security considerations when using the anamorphic encryption library.
 
+## Need Audit !
+- need audit
+- dont use the xor 
+- Add a MAC function ?
+
 ## Cryptographic Primitives
 
 ### AES-256-CBC
