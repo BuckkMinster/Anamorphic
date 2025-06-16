@@ -6,6 +6,10 @@ A complete Rust library for anamorphic encryption, enabling plausible deniabilit
 
 Anamorphic encryption is an advanced cryptographic technique that allows the same ciphertext to be decrypted with different keys to reveal different plaintext messages. This unique property provides **plausible deniability**—the ability to credibly deny the existence of a secret message.
 
+## Todo 
+
+Check for MAC to fixe mitm attack
+
 ## Features
 
 - ✅ **Single Encryption**: Standard AES-256-CBC encryption
